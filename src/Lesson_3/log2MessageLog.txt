@@ -1,0 +1,16 @@
+nick1: e213e
+Me: 3423
+private from [ nick1 ]: 3424
+Me: 65y56yfgb
+nick1: 1
+nick1: 2
+nick1: 3
+nick1: 4
+nick1: 5
+Me: 6
+Me: 7
+Me: 8
+Me: 9
+Me: 0
+private from [ nick1 ]: 11
+private to [ nick1 ]: 12
