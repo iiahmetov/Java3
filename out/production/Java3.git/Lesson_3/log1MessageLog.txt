@@ -1,0 +1,20 @@
+Me: eqfwef
+Me: eqwfewqf
+Me: 12
+Me: 23123
+Me: e213e
+nick2: 3423
+private to [ nick2 ]: 3424
+nick2: 65y56yfgb
+Me: 1
+Me: 2
+Me: 3
+Me: 4
+Me: 5
+nick2: 6
+nick2: 7
+nick2: 8
+nick2: 9
+nick2: 0
+private to [ nick2 ]: 11
+private from [ nick2 ]: 12
